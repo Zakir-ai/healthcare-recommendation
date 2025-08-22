@@ -1,10 +1,11 @@
 
 # 🏥 Personalized Healthcare Recommendation System
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Flask](https://img.shields.io/badge/Web-Flask-green)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
-![License](https://img.shields.io/badge/License-MIT-informational)
+### **Download Links for Required Technologies**
+- 🐍 **Python** → [Download Python 3.9+](https://www.python.org/downloads/)
+- 🌐 **Flask** → [Flask Official Documentation](https://flask.palletsprojects.com/en/latest/)
+- ⚡ **XGBoost** → [XGBoost Installation Guide](https://xgboost.readthedocs.io/en/stable/install.html)
+
 
 ## Table of Contents
 - [Overview](#overview)
