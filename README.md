@@ -61,10 +61,10 @@ The **Personalized Healthcare Recommendation System** is an end-to-end machine l
 ## Results
 - **Before SMOTE:** Class 0 = 570, Class 1 = 178.
 - **Performance:** *(Example values)*
-  - Accuracy: ~92%
-  - Precision: ~0.90
-  - Recall: ~0.91
-  - F1-score: ~0.90
+  - Accuracy: ~0.76
+  - Precision: ~0.7512
+  - Recall: ~0.76
+  - F1-score: ~0.755
 
 ---
 
@@ -86,7 +86,7 @@ health_app/
 ## Setup & Usage
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/healthcare-recommendation.git
+git clone https://github.com/Zakir-ai/healthcare-recommendation.git
 cd healthcare-recommendation
 ```
 ### 2. Install Dependencies
